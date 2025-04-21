@@ -1,0 +1,38 @@
+img {
+    width: 300px;
+    height: 200px;
+  }
+body {
+    font-family: Arial, sans-serif;
+    background: #e6f0e6;
+    margin: 0;
+    padding: 2rem;
+  }
+  h1 {
+    text-align: center;
+    color: #2e7d32;
+  }
+  ol {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  li {
+    margin-bottom: 1.5rem;
+  }
+  ul {
+    margin-top: 0.5rem;
+  }
+  .tableauPlaceholder {
+    max-width: 80%; /* Limit the width */
+    margin: 2rem auto; /* Center the div */
+    display: block;
+  }
+  
+  .tableauViz {
+    width: 100%; /* Make the Tableau embed full width of the div */
+    height: 40vh; /* Set height to 60% of viewport height */
+  }
